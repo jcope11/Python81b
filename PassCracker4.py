@@ -1,4 +1,5 @@
 # Password Cracker - all keys on keyboard
+# By Joe Copeland
 
 import itertools, string, time
 from datetime import datetime
